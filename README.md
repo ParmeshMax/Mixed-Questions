@@ -10,7 +10,7 @@
 - 💥 Covers multiple categories (Math, Logic, General Knowledge, etc.).  
 - 🚨 Perfect for self‑practice, group quizzes, or quick revision under pressure.  
 
----
+--
 
 ## 📂 Structure
 - `questions/` → Sets of mixed questions.  
